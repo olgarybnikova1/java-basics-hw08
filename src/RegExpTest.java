@@ -25,7 +25,6 @@ public class RegExpTest {
                 {"invalid: 0.0.0.0", "0.0.0.0"},
                 {"130.45.151.154","130.45.151.154"},
                 {"121.234.12.12", "121.234.12.12"},
-                // TODO add 2 more test data here
         };
     }
 
